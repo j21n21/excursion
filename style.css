@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.pagetitle h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.pagetitle h6 {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
