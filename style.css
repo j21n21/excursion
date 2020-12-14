@@ -1,0 +1,53 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.pagetitle h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.pagetitle h6 {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.travelguide h2 {
+    font-weight: normal;
+    font-size: 45px;
+    color: white;
+}
+
+.travelguide h6 {
+    color: grey;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.png {
+    padding-top: 20px;
+}
+
+.bottombit h2 {
+    font-weight: normal;
+    font-size: 45px;
+    color: white;
+}
+
+.bottombit h6 {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.copyright {
+    color: grey;
+    font-size: 21px;
+    font-weight: normal;
+    text-align: right;
+}
